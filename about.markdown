@@ -4,6 +4,6 @@ title: 关于
 permalink: /about/
 ---
 
-2017年本科毕业，猜猜我多大？
+我是公众号「程序员uncle」的作者，一个在职的喜欢 **乱搞** 的后端程序员。
 
-一个在职程序员，不求上进，只求快乐。
+![关注我，即可体验 ChatGPT](/assets/official_account.JPG){:width="70%" }
