@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 程序员uncle
-author:
-  name:
-  email: guoqing.jia@qq.com
+#author:
+#  name: Guoqing
+#  email: guoqing.jia@qq.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  公众号「程序员uncle」已接入ChatGPT。
+  公众号「程序员uncle」已接入 ChatGPT。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cxyds.top" # the base hostname & protocol for your site, e.g. http://example.com
 

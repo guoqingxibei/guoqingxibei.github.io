@@ -4,6 +4,8 @@ title: 关于
 permalink: /about/
 ---
 
-我是公众号「程序员uncle」的作者，一个在职的喜欢 **乱搞** 的后端程序员。
+我是公众号「**程序员uncle**」的作者，一个在职的喜欢 **乱搞** 的后端程序员。
+![关注我，即可体验 ChatGPT](/assets/official-account-qr.JPG){:width="100%" }
 
-![关注我，即可体验 ChatGPT](/assets/official_account.JPG){:width="70%" }
+围观朋友圈，做个点赞之交，可添加作者微信。
+![作者微信](/assets/author-wechat-qr.JPG)
