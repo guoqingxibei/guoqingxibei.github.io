@@ -55,3 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 show_excerpts: true
+timezone: Asia/Shanghai
