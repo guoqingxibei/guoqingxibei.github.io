@@ -29,10 +29,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cxyds.top" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: "mmistakes/minimal-mistakes@master"
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

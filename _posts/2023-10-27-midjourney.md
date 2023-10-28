@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "AI画图"
 date:   2023-10-27 02:52:50 +0800
 tags: ['MidJourney']
