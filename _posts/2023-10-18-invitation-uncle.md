@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "邀请好友"
 date:   2023-10-18 11:42:50 +0800
 tags: ['ChatGPT']

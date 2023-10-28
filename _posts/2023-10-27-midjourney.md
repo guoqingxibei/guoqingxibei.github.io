@@ -1,10 +1,8 @@
 ---
-layout: posts
 title:  "AI画图"
 date:   2023-10-27 02:52:50 +0800
 tags: ['MidJourney']
 ---
-
 ## 如何使用
 ### 1. 切换到「AI画图」模式
 ### 2. 用英文输入描述(prompt)

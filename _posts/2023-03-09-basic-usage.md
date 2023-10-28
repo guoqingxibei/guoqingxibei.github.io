@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "基础用法"
 date:   2023-03-09 18:38:50 +0800
 tags: ['ChatGPT']

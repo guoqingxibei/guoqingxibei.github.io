@@ -53,5 +53,41 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+site.locale: zh-CN
 show_excerpts: true
 timezone: Asia/Shanghai
+minimal_mistakes_skin: "dark"
+search: true
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "guoqingxibei"
+atom_feed:
+  hide: true
+author:
+  name     : "程序员uncle"
+  avatar   : "/assets/bio-photo.ico"
+  bio      : "人生苦短，及时行乐"
+  links:
+    - label: "邮箱"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jia.guoqing@qq.com"
+    - label: "微信"
+      icon: "fab fa-weixin"
+      url: "/2023/09/17/writer-qr.html"
+    - label: "公众号"
+      icon: "fab fa-weixin"
+      url: "/2023/09/17/official-account.html"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      related: true
+      toc: true
+      toc_label: 目录
+      toc_sticky: true
