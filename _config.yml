@@ -56,7 +56,7 @@ plugins:
 site.locale: zh-CN
 show_excerpts: true
 timezone: Asia/Shanghai
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "dirt"
 search: true
 comments:
   provider: "disqus"
