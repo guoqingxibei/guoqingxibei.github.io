@@ -32,6 +32,7 @@ url: "https://cxyds.top" # the base hostname & protocol for your site, e.g. http
 remote_theme: "mmistakes/minimal-mistakes@master"
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,17 +54,15 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-site.locale: zh-CN
+include:
+  - _pages
+
+locale: zh-CN
+title_separator: "|"
 show_excerpts: true
 timezone: Asia/Shanghai
 minimal_mistakes_skin: "dirt"
 search: true
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "guoqingxibei"
-atom_feed:
-  hide: true
 author:
   name     : "程序员uncle"
   avatar   : "/assets/bio-photo.ico"
@@ -75,10 +74,14 @@ author:
     - label: "微信"
       icon: "fab fa-weixin"
       url: "/2023/09/17/writer-qr.html"
-    - label: "公众号"
-      icon: "fab fa-weixin"
-      url: "/2023/09/17/official-account.html"
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
