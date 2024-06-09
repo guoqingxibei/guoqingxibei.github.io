@@ -65,7 +65,7 @@ search: true
 author:
   name     : "程序员uncle"
   avatar   : "/assets/bio-photo.ico"
-  bio      : "人生苦短，及时行乐"
+  bio      : "人生苦短，及时行乐。"
   links:
     - label: "邮箱"
       icon: "fas fa-fw fa-envelope-square"

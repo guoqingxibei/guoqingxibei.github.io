@@ -1,5 +1,5 @@
 ---
-title:  "邀请好友"
+title:  "邀请好友-brother"
 date:   2023-10-18 11:42:50 +0800
 tags: ['ChatGPT']
 ---
