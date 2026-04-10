@@ -10,14 +10,14 @@ tags: ['110']
 ### 录音1
 
 焦姓民警与申请人丈夫的通话
-<audio controls>
-  <source src="/assets/audio/dad-110.m4a" type="audio/mpeg">
+<audio controls playsinline>
+  <source src="/assets/audio/dad-110.m4a" type="audio/mp4">
   您的浏览器不支持音频播放，请升级浏览器。
 </audio>
 
 ### 录音2
 焦姓民警与申请人儿子的通话
-<audio controls>
-  <source src="/assets/audio/son-110.m4a" type="audio/mpeg">
+<audio controls playsinline>
+  <source src="/assets/audio/son-110.m4a" type="audio/mp4">
   您的浏览器不支持音频播放，请升级浏览器。
 </audio>
